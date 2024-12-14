@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Scientist
 -----------------------
 
-📊 I specialize in analyzing data, crafting dashboards, and building predictive models that solve real-world challenges. 🤖 I’m passionate about focusing on machine learning algorithms, deep learning architectures, and NLP models. 🌐 I love leveraging AWS services to deploy scalable, data-driven applications and pipelines. 💡 I enjoy experimenting with end-to-end data pipelines — from data wrangling to creating insightful visualizations. 📈 My goal is to constantly push the boundaries of data science and make a positive impact through innovation.
+📊 I specialize in analyzing data, crafting dashboards, and building predictive models that solve real-world challenges. 
+🤖 I’m passionate about focusing on machine learning algorithms, deep learning architectures, and NLP models. 
+🌐 I love leveraging AWS services to deploy scalable, data-driven applications and pipelines. 
+💡 I enjoy experimenting with end-to-end data pipelines — from data wrangling to creating insightful visualizations. 
+📈 My goal is to constantly push the boundaries of data science and make a positive impact through innovation.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [harikrishnapanneerselvam@gmail.com](mailto:harikrishnapanneerselvam@gmail.com)
