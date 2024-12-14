@@ -5,14 +5,18 @@ Aspiring Data Scientist
 -----------------------
 
 📊 I specialize in analyzing data, crafting dashboards, and building predictive models that solve real-world challenges. 
+
 🤖 I’m passionate about focusing on machine learning algorithms, deep learning architectures, and NLP models. 
+
 🌐 I love leveraging AWS services to deploy scalable, data-driven applications and pipelines. 
-💡 I enjoy experimenting with end-to-end data pipelines — from data wrangling to creating insightful visualizations. 
+
+💡 I enjoy experimenting with end-to-end data pipelines — from data wrangling to creating insightful visualizations.
+
 📈 My goal is to constantly push the boundaries of data science and make a positive impact through innovation.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [harikrishnapanneerselvam@gmail.com](mailto:harikrishnapanneerselvam@gmail.com)
-*   🧠  I'm learning AWS### Skills 
+*   🧠  I'm learning AWS Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
                     </p>
